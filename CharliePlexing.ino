@@ -15,7 +15,6 @@ void loop() {
     delay(ESPERA);
   }
 
-
 }
 
 void panelCharlie(int LED) {
